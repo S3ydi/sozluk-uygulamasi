@@ -1,5 +1,5 @@
 
-# 🧠 HashSozlukGUI_Fix
+# 🧠 Sözlük Uygulaması
 
 Bu proje, **Avalonia UI** kullanılarak geliştirilen basit ama işlevsel bir görsel sözlük uygulamasıdır. Anahtar-değer (hash tablosu) mantığı ile çalışır. Kullanıcı, uygulama arayüzü üzerinden veri ekleyebilir, arayabilir ve silebilir.
 
